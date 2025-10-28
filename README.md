@@ -1,5 +1,5 @@
 # Madonna
-## a european-built, privacy-first collection of ai tools designed to keep your data yours. no tracking, no compromise.
+## a european-built, privacy-first interface designed to keep your data yours.
 
 ![screenshot](https://madonna-tau.vercel.app/dsfdfdfssd.png)  
 *note: screenshots may show outdated ui*
